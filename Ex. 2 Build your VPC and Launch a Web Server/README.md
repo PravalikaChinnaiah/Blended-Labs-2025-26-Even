@@ -4,7 +4,7 @@
 
 * **Name**: ________PRAVALIKA________
 * **Register Number**: __________212225040313__________
-* **Date of Submission**: _____________28.10.26____
+* **Date of Submission**: ____28.10.26____
 
 ---
 
