@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: ________PRAVALIKA________
+* **Register Number**: __________212225040313__________
+* **Date of Submission**: _____________28.10.26____
 
 ---
 
@@ -99,19 +99,21 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+![Uploading WhatsApp Image 2026-10-28 at 2.22.00 PM.jpeg…]()
+
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
+![Uploading WhatsApp Image 2026-10-28 at 2.22.44 PM.jpeg…]()
 
-(Insert Screenshot Here)
 
 ---
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+![Uploading WhatsApp Image 2026-10-28 at 2.23.34 PM.jpeg…]()
+
 
 ---
 
